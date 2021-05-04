@@ -1,1 +1,4 @@
 # JM-Projexive
+This respo contains programs, which are done during working with John.
+Duration 9/02/2021 - 05/05/2021
+Income : ₹ 8600
